@@ -1,1 +1,3 @@
 # Strivers
+
+Started with GIT
